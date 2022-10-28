@@ -1,0 +1,70 @@
+{
+    "group": {
+        "groupName": "Friends",
+        "accountHolder": [
+            {
+                "holderName": "Murad Sadigov",
+                "id": "MS1",
+                "email": "muradsadigov@gmail.com",
+                "bills": [
+                    {
+                        "billName": "Restaurant",
+                        "amountObj": {
+                            "amount": 600.0,
+                            "currency": "USD"
+                        }
+                    },
+                    {
+                        "billName": "Travel",
+                        "amountObj": {
+                            "amount": 300.0,
+                            "currency": "USD"
+                        }
+                    }
+                ]
+            },
+            {
+                "holderName": "Mehdi Aadarsh",
+                "id": "MA2",
+                "email": "mehdiaadarsh@gmail.com",
+                "bills": [
+                    {
+                        "billName": "Grocery Spar",
+                        "amountObj": {
+                            "amount": 450.0,
+                            "currency": "USD"
+                        }
+                    },
+                    {
+                        "billName": "Grocery Lidl",
+                        "amountObj": {
+                            "amount": 300.0,
+                            "currency": "USD"
+                        }
+                    }
+                ]
+            },
+            {
+                "holderName": "Vugar Nasraddinli",
+                "id": "VN3",
+                "email": "vugarnasraddinli@gmail.com",
+                "bills": [
+                    {
+                        "billName": "Tobacco Shop",
+                        "amountObj": {
+                            "amount": 150.0,
+                            "currency": "USD"
+                        }
+                    },
+                    {
+                        "billName": "McDonalds Order Food",
+                        "amountObj": {
+                            "amount": 300.0,
+                            "currency": "USD"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

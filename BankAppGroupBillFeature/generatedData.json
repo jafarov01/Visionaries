@@ -1,0 +1,52 @@
+{
+    "loans": [
+        {
+            "amountObject": {
+                "amount": 150,
+                "currency": "USD"
+            },
+            "lendee": {
+                "userEmail": "vugarnasraddinli@gmail.com",
+                "userID": "VN3",
+                "userName": "Vugar Nasraddinli"
+            },
+            "lender": {
+                "userEmail": "mehdiaadarsh@gmail.com",
+                "userID": "MA2",
+                "userName": "Mehdi Aadarsh"
+            }
+        },
+        {
+            "amountObject": {
+                "amount": 150,
+                "currency": "USD"
+            },
+            "lendee": {
+                "userEmail": "vugarnasraddinli@gmail.com",
+                "userID": "VN3",
+                "userName": "Vugar Nasraddinli"
+            },
+            "lender": {
+                "userEmail": "muradsadigov@gmail.com",
+                "userID": "MS1",
+                "userName": "Murad Sadigov"
+            }
+        },
+        {
+            "amountObject": {
+                "amount": 375,
+                "currency": "USD"
+            },
+            "lendee": {
+                "userEmail": "mehdiaadarsh@gmail.com",
+                "userID": "MA2",
+                "userName": "Mehdi Aadarsh"
+            },
+            "lender": {
+                "userEmail": "muradsadigov@gmail.com",
+                "userID": "MS1",
+                "userName": "Murad Sadigov"
+            }
+        }
+    ]
+}
